@@ -17,7 +17,7 @@ Padronizar a instalação do Simul8 EDU 2021 em máquinas do ambiente educaciona
 
 ## 🧩 Estrutura do Script
 
-- **Detecção do disco S:\**  
+- **Detecção do disco S:**  
   Verifica se a unidade S: está disponível (ambiente educacional) e define o local de instalação de acordo.
 
 - **Instalação silenciosa**  
